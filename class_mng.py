@@ -24,7 +24,7 @@ class charStats:
         return self.power + sum(item.power for item in self.itens)
     
     def maxArmor(self):
-        return self.armor + sum(item.amor for item in self.itens)
+        return self.armor + sum(item.armor for item in self.itens)
     
     def __str__(self):
         return (f"ID: {self.ownId}, Nome: {self.name}, Aventureiro: {self.charName}, "

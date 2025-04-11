@@ -29,7 +29,7 @@ Projeto de sistema de gerenciamento para um RPG. O sistema permite a criação e
 ```bash
 /rpg-manager 
   ├── scripts.py
-  ├── utils.py
+  ├── class_mng.py
   └── main.py
 
 ```
