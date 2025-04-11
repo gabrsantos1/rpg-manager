@@ -5,7 +5,6 @@ Projeto de sistema de gerenciamento para um RPG. O sistema permite a criação e
 ## Tecnologias Utilizadas
 
 - **Python**
-- **mySQL**
 ---
 
 ## Funcionalidades
@@ -29,7 +28,7 @@ Projeto de sistema de gerenciamento para um RPG. O sistema permite a criação e
 
 ```bash
 /rpg-manager 
-  ├── config.py
+  ├── scripts.py
   ├── utils.py
   └── main.py
 
@@ -40,7 +39,6 @@ Projeto de sistema de gerenciamento para um RPG. O sistema permite a criação e
 ### Pré-requisitos
 
 - Python
-- mySQL
 - Git
 
 ### Passo a passo
